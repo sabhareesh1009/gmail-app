@@ -58,8 +58,8 @@ function EmailList() {
         />
         <EmailRow
           title="Meta"
-          subject="Welcome to Metaverse"
-          description="AR makes "
+          subject="Welcome to Metaverse!!"
+          description="AR makes World beautifull"
           time="10:00 AM"
         />
         <EmailRow
